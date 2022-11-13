@@ -1,0 +1,10 @@
+*{
+    margin:0px;
+    box-sizing: border-box;
+}
+body{
+    -ms-overflow-style: none;  /* IE and Edge */
+}
+body::-webkit-scrollbar {
+    display: none;
+}

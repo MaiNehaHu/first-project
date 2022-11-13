@@ -1,0 +1,34 @@
+.FooterBox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    background-color: navy;
+
+    position: relative;
+    top: 11px;
+    cursor: default;
+  }
+  .FooterHeading {
+    font-weight: 801;
+    font-family: "Mukta", sans-serif;
+    color: white;
+  }
+  .OnBox{
+      height: 260px;
+      align-items: flex-start !important;
+      margin: 30px 30px 10px;
+  }
+  .OnBox > a,.OnBox>p, .OnBox>a {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: white;
+    font-family: "Acme", sans-serif;
+  }
+  .OnBox >a:hover{
+      text-decoration: underline;
+  }
+  
+ 
+ 
