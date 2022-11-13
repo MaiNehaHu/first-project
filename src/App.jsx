@@ -83,7 +83,7 @@ const App = () => {
     <BrowserRouter>
       <Routes>
         <Route
-          path="/"
+          path="/Home"
           element={
             <>
               <Home />
