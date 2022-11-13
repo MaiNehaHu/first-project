@@ -1,5 +1,5 @@
 {
- 
+  "home": "http://MaiNehaHu.github.io/MLRITM-College-Website ",
   "name": "first-project",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
