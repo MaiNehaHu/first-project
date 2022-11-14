@@ -8,3 +8,8 @@ body{
 body::-webkit-scrollbar {
     display: none;
 }
+@media screen and (max-width:300px) {
+    body{
+        overflow-x: hidden;
+    }
+}
