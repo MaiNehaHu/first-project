@@ -31,6 +31,7 @@
   font-family: "Mukta", sans-serif;
   color: navy;
   margin: 0px 5px 0px;
+  word-wrap: break-word;
 }
 .Pic {
   width: 10vw;
