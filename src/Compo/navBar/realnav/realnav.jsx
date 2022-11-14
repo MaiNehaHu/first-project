@@ -247,7 +247,7 @@ const RealNav = () => {
                 </li>
                 <li>
                   <Link className="dropdown-item" to="/PlacementStatistics">
-                    Placement Statictics
+                    Placement Statistics
                   </Link>
                 </li>
               </ul>
