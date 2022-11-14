@@ -80,10 +80,10 @@ import MailLogin from "./Compo/navBar/Logins/Mail";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/first-project">
       <Routes>
         <Route
-          path="/first-project"
+          path="/"
           element={
             <>
               <Home />

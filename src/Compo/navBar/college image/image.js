@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Image = () => {
   return (
     <>
-      <Link to="/first-project">
+      <Link to="/">
         <div id="backimage"></div>
       </Link>
     </>
