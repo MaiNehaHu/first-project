@@ -9,7 +9,7 @@ const RealNav = () => {
         <nav id="real">
           <ul className="nav nav-fill">
             <li className="nav-link nav-item" aria-current="page" href="/">
-              <Link to="/first-project">
+              <Link to="/">
                 <p className="realnav">🏠HOME</p>
               </Link>
             </li>
