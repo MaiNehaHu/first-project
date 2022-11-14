@@ -40,6 +40,34 @@
     cursor: pointer;
   }
 }
+@media screen and (max-width: 430px) {
+  .navbutton {
+    margin: 2px;
+    height: 30px;
+    width: 120px;
+  }
+}
+@media screen and (max-width: 380px) {
+  .navbutton {
+    margin: 2px;
+    height: 30px;
+    width: 80px;
+  }
+}
+@media screen and (max-width: 344px) {
+  .navbutton {
+    margin: 2px;
+    height: 30px;
+    width: 75px;
+  }
+}
+@media screen and (max-width: 323px) {
+  .navbutton {
+    margin: 2px;
+    height: 30px;
+    width: 95px;
+  }
+}
 .navbutton:hover {
   background-color: white;
   color: darkblue;
