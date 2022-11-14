@@ -75,10 +75,10 @@ body {
 
 @media screen and (max-width: 1440px) {
   .scrollerBoxx {
-    height: 420px;
+    height: 430px;
   }
   .BOXX {
-    height: 350px;
+    height: 340px;
   }
   .scrollerBoxx {
     grid-auto-columns: 22%;
