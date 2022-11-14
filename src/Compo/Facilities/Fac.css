@@ -55,24 +55,21 @@ body {
   scroll-snap-align: start;
 }
 
-.Description {
+.Description   {
   height: 100px;
   color: darkblue;
-  font-size: 21px;
-  font-weight: 600;
-  font-family: "Kalam", cursive;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    font-size: 21px;
+    font-weight: 600;
+    font-family: "Kalam", cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-#Facilities{
-  width: 101vw;
-}
 #Facilities > .scrollerBoxx > .BOXX > a {
   text-decoration: none;
 }
-#FacilityBox > * {
+#FacilityBox >*{
   text-decoration: none;
 }
 
@@ -92,7 +89,7 @@ body {
     grid-auto-columns: 37%;
   }
   .FacilityPhoto > img {
-    aspect-ratio: 1/0.6;
+    aspect-ratio: 1/0.60;
   }
 }
 @media screen and (max-width: 1235px) {
@@ -148,6 +145,7 @@ body {
 @media screen and (max-width: 630px) {
   .scrollerBoxx {
     grid-auto-columns: 58%;
+  
   }
   .FacilityPhoto > img {
     aspect-ratio: 1/0.83;
@@ -209,8 +207,7 @@ body {
     position: relative;
     top: 280px;
   }
-}
-@media screen and (max-width: 774px) {
+}@media screen and (max-width: 774px) {
   #Facilities {
     position: relative;
     top: 300px;

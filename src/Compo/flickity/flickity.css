@@ -12,7 +12,7 @@ body {
 
 .carousel-item > img{
   overflow: hidden;
-  width: 101vw;
+  width: auto;
   height: auto;
 }
 #carouselExampleControls{
