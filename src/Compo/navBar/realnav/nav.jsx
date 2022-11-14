@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 
-import Display from "./navDisplayAlgo";
-import Data from "./navData";
-import "./navbar.css";
+import Display from '../navDisplayAlgo';
+import Data from "../navData";
+import "../navbar.css";
 
 const Navs = () => {
   const [active, setActive] = useState("null");
