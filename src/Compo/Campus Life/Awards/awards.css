@@ -29,7 +29,7 @@
 }
 @media screen and (max-width: 900px) {
   .Avards {
-    width: 100vw;
+    width: 101vw;
     padding: 5px 15px 5px;
   }
   #Described > p {
@@ -48,7 +48,7 @@
 }
 @media screen and (max-width: 630px) {
   .Avards {
-    width: 100vw;
+    width: 101vw;
   }
 }
 #Head {
@@ -64,11 +64,11 @@
 }
 @media screen and (max-width: 900px) {
   #Head {
-    width: 100vw;
+    width: 101vw;
   }
 }
 @media screen and (max-width: 630px) {
   #Head {
-    width: 100vw;
+    width: 101vw;
   }
 }
