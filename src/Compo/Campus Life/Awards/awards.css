@@ -29,7 +29,7 @@
 }
 @media screen and (max-width: 900px) {
   .Avards {
-    width: 10zvw;
+    width: 100vw;
     padding: 5px 15px 5px;
   }
   #Described > p {
