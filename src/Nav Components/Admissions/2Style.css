@@ -104,6 +104,14 @@
 .Navtable >table > tbody > tr > * {
   font-size: 17px;
 }
+.Navtable >table > tbody > tr >td > * {
+  text-decoration: none;
+  color: navy;
+}
+.Navtable >table > tbody > tr >td > *:hover{
+  text-decoration: underline;
+  color: red;
+}
 
 /*how to apply*/
 #arrange {
