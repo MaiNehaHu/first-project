@@ -22,7 +22,7 @@ export const NavFooter = () => {
             <h3 className="FooterHeading">Quick links</h3>
             <Link to="/">Examination Updates</Link>
             <Link to="/">Placement Updates</Link>
-            <Link to="/admissions/scholarships">Scholarship Updates</Link>
+            <Link to="/scholarships">Scholarship Updates</Link>
             <Link to="/">Academic Calendar</Link>
           </div>
 
