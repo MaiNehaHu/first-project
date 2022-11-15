@@ -11,8 +11,8 @@ export const Footer = () => {
         <div className="FooterContainer">
           <div className="Logins OneBox">
             <h3 className="FooterHeading">MLRITM Login</h3>
-            <Link to="/">Student Login / ERP Login (autonomous)</Link>
-            <Link to="/">Faculty Login / ERP Login (autonomous)</Link>
+            <Link to="/StudentLogin">Student Login / ERP Login (autonomous)</Link>
+            <Link to="/FacultyLogin">Faculty Login / ERP Login (autonomous)</Link>
             <Link to="/">LMS Login</Link>
             <Link to="/">Online Fee Payment</Link>
             <Link to="/">MLRITM Mail login</Link>
