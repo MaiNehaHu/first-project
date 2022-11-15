@@ -39,8 +39,8 @@ export const NavFooter = () => {
           </div>
           <div className="Academics OneBox">
             <h3 className="FooterHeading">Academics</h3>
-            <Link to="/">UG Programmes</Link>
-            <Link to="/">PG Programmes</Link>
+            <Link to="/coursesintake">UG Programmes</Link>
+            <Link to="/coursesintake">PG Programmes</Link>
             <Link to="/">Governing Body</Link>
             <Link to="/">Academic Council</Link>
             <Link to="/">Regulation and Syllabus</Link>

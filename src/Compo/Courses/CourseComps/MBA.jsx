@@ -3,7 +3,7 @@ import React from "react";
 const MBA = () => {
   return (
     <div className="bodyy coursee" id="mba">
-      <h4 className="heading">Master od Business Administration</h4>
+      <h4 className="heading">Master of Business Administration</h4>
       <div className="displayblock">
         <div id="mba">
           <img

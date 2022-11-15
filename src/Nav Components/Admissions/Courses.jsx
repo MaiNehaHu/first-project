@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from 'react-router-dom'
 
 const Coursesintake = () => {
   return (
@@ -15,43 +16,43 @@ const Coursesintake = () => {
             <tbody>
               <tr>
                 <td rowSpan={11}>UG Courses</td>
-                <td>Computer Science and Engineering(CSE)</td>
+                <td><Link to="/Courses/CSE">Computer Science and Engineering(CSE)</Link></td>
                 <td>180</td>
               </tr>
               <tr>
-                <td>Artificial Intelligence and Machine Learning(AI and ML)</td>
+                <td><Link to="/Courses/AI&ML">Artificial Intelligence and Machine Learning(AI and ML)</Link></td>
                 <td>180</td>
               </tr>
               <tr>
-                <td>Cyber Security</td>
+                <td><Link to="/Courses/CS">Cyber Security</Link></td>
                 <td>60</td>
               </tr>
               <tr>
-                <td>Data Science</td>
+                <td><Link to="/Courses/DS">Data Science</Link></td>
                 <td>180</td>
               </tr>
               <tr>
-                <td>Computer Science and Information Technlolgy</td>
+                <td><Link to="/Courses/CS-IT">Computer Science and Information Technlolgy</Link></td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Information Technology(IT)</td>
+                <td><Link to="/Courses/IT">Information Technology(IT)</Link></td>
                 <td>120</td>
               </tr>
               <tr>
-                <td>Electronics and Communication Engineering(ECE)</td>
+                <td><Link to="/Courses/ECE">Electronics and Communication Engineering(ECE)</Link></td>
                 <td>180</td>
               </tr>
               <tr>
-                <td>Electrical and Electronics Engineering(EEE)</td>
+                <td><Link to="/Courses/EEE">Electrical and Electronics Engineering(EEE)</Link></td>
                 <td>30</td>
               </tr>
               <tr>
-                <td>Civil Engineering</td>
+                <td><Link to="/Courses/CIVIL">Civil Engineering</Link></td>
                 <td>30</td>
               </tr>
               <tr>
-                <td>Mechanical Engineering(ME)</td>
+                <td><Link to="/Courses/MECH">Mechanical Engineering(ME)</Link></td>
                 <td>30</td>
               </tr>
               <tr>
@@ -91,8 +92,7 @@ const Coursesintake = () => {
                 <td>18</td>
               </tr>
               <tr>
-                <td>Master of Businees Administration</td>
-
+                <td><Link to="/Courses/MBA">Master of Businees Administration</Link></td>
                 <td>120</td>
               </tr>
               <tr>

@@ -41,13 +41,12 @@ export const Footer = () => {
 
           <div className="Academics OneBox">
             <h3 className="FooterHeading">Academics</h3>
-            <Link to="/">UG Programmes</Link>
-            <Link to="/">PG Programmes</Link>
+            <Link to="/coursesintake">UG Programmes</Link>
+            <Link to="/coursesintake">PG Programmes</Link>
             <Link to="/">Governing Body</Link>
             <Link to="/">Academic Council</Link>
             <Link to="/">Regulation and Syllabus</Link>
-            <Link to="/">RTI-ACT</Link>
-           
+            <Link to="/">RTI-ACT</Link> 
             <Link to="/">Professional Societies</Link>
             <Link to="/">Grievance Cell</Link>
           </div>
