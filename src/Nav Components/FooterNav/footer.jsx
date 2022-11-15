@@ -3,6 +3,9 @@ import { Link } from "react-router-dom";
 import "./footerstyle.css";
 import { Followus } from "../../Compo/Footer/Followus";
 
+/**When nav components will get opened . this nav will get appeared.
+ * We have to maintain it same as the footer which is on main pages i.e. /
+ */
 export const NavFooter = () => {
   return (
     <>
