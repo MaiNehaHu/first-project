@@ -13,9 +13,9 @@ export const Footer = () => {
             <h3 className="FooterHeading">MLRITM Login</h3>
             <Link to="/StudentLogin">Student Login / ERP Login (autonomous)</Link>
             <Link to="/FacultyLogin">Faculty Login / ERP Login (autonomous)</Link>
+            <Link to="/MailLogin">MLRITM Mail login</Link>
             <Link to="/">LMS Login</Link>
             <Link to="/">Online Fee Payment</Link>
-            <Link to="/">MLRITM Mail login</Link>
             <Link to="/">AICTE Student Feedback</Link>
             <Link to="/">AICTE Faculty Feedback</Link>
           </div>
