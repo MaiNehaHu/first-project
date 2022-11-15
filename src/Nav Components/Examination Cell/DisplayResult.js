@@ -29,53 +29,53 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>1</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>2</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>3</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>4</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
@@ -83,17 +83,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>5</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
@@ -101,17 +101,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>6</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
@@ -119,29 +119,29 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>7</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>8</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
@@ -174,53 +174,53 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>1</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>2</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>3</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>4</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
@@ -228,17 +228,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>5</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
@@ -246,17 +246,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>6</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
@@ -264,29 +264,29 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>7</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>8</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
@@ -319,53 +319,53 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>1</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>2</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>3</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>4</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
@@ -373,29 +373,29 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>5</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">III YEAR I SEM</Link>
+                        <Link to="/Results">III YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">III YEAR I SEM</Link>
+                        <Link to="/Results">III YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">III YEAR I SEM</Link>
+                        <Link to="/Results">III YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>6</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
@@ -403,29 +403,29 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>7</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>8</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
@@ -459,56 +459,56 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>1</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>2</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>3</td>
                       <td>
                         {" "}
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
                         {" "}
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
                         {" "}
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>4</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
@@ -516,29 +516,29 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>5</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">III YEAR I SEM</Link>
+                        <Link to="/Results">III YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">III YEAR I SEM</Link>
+                        <Link to="/Results">III YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">III YEAR I SEM</Link>
+                        <Link to="/Results">III YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>6</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
@@ -546,29 +546,29 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>7</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>8</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
@@ -602,53 +602,53 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>1</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>2</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>3</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>4</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
@@ -656,17 +656,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>5</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
@@ -674,17 +674,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>6</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
@@ -692,29 +692,29 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>7</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>8</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
@@ -748,53 +748,53 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>1</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>2</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>3</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>4</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
@@ -802,17 +802,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>5</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
@@ -820,17 +820,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>6</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
@@ -838,29 +838,29 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>7</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>8</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
@@ -894,53 +894,53 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>1</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>2</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>3</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>4</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
@@ -948,17 +948,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>5</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
@@ -966,17 +966,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>6</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
@@ -984,29 +984,29 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>7</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>8</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
@@ -1040,53 +1040,53 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>1</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR I SEM</Link>
+                        <Link to="/Results">I YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>2</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">I YEAR II SEM</Link>
+                        <Link to="/Results">I YEAR II SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>3</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">II YEAR I SEM</Link>
+                        <Link to="/Results">II YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>4</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           II YEAR II SEM
                         </Link>
                       </td>
@@ -1094,17 +1094,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>5</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR I SEM
                         </Link>
                       </td>
@@ -1112,17 +1112,17 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>6</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           III YEAR II SEM
                         </Link>
                       </td>
@@ -1130,29 +1130,29 @@ const DisplayResult = ({ data, index }) => {
                     <tr>
                       <td>7</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">IV YEAR I SEM</Link>
+                        <Link to="/Results">IV YEAR I SEM</Link>
                       </td>
                     </tr>
                     <tr>
                       <td>8</td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
                       <td>
-                        <Link to="/ExaminationCell/Results">
+                        <Link to="/Results">
                           IV YEAR II SEM
                         </Link>
                       </td>
