@@ -47,7 +47,7 @@
     width: 125px;
   }
 }
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 396px) {
   .navbutton {
     margin: 2px;
     height: 30px;
@@ -61,7 +61,7 @@
     width: 75px;
   }
 }
-@media screen and (max-width: 323px) {
+@media screen and (max-width: 324px) {
   .navbutton {
     margin: 2px;
     height: 30px;
