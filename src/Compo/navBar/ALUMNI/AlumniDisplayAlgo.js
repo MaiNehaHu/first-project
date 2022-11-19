@@ -97,7 +97,7 @@ export const AlumniDisplayAlgo = ({ data, index }) => {
                   </a>
                 </p>
                 <p className="title">{item.title2}</p>
-                <div className="pics">
+                <div className="pict">
                 <img src={item.img1} alt="img1" />
                 <img src={item.img2} alt="img2" />
                 </div>

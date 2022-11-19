@@ -78,11 +78,11 @@
 .mem > p > a:hover {
   text-decoration: underline;
 }
-.pics {
+.pict {
   display: flex;
-  justify-content: center;
+  flex-direction: row;
 }
-.mem >.pics> img { 
-  width: 40vw;
+.mem >.pict> *{ 
+  width: 45vw;
   margin-inline: 10px;
 }
