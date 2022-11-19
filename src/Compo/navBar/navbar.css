@@ -40,34 +40,37 @@
     cursor: pointer;
   }
 }
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 512px) {
   .navbutton {
     margin: 2px;
     height: 30px;
-    width: 125px;
+    width: 18vw;
   }
 }
+
 @media screen and (max-width: 396px) {
   .navbutton {
     margin: 2px;
     height: 30px;
-    width: 80px;
+    width: 23vw;
   }
 }
-@media screen and (max-width: 344px) {
+
+@media screen and (max-width: 307px) {
   .navbutton {
     margin: 2px;
     height: 30px;
-    width: 75px;
+    width: 30vw;
   }
 }
-@media screen and (max-width: 324px) {
+@media screen and (max-width: 290px)  {
   .navbutton {
     margin: 2px;
     height: 30px;
-    width: 95px;
+    width: 45vw;
   }
 }
+
 .navbutton:hover {
   background-color: white;
   color: darkblue;
