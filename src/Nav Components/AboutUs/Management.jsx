@@ -1,6 +1,6 @@
 import React from "react";
 import "../AboutUs/1Style.css";
-
+import {Link} from 'react-router-dom'
 const Management = () => {
   return (
     <>
@@ -17,15 +17,15 @@ const Management = () => {
                   alt="MLR sir"
                 />
                 <div id="Socialmedia">
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-instagram"></i>
-                  </a>
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  </Link>
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-facebook-square fbook"></i>
-                  </a>
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  </Link>
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-twitter"></i>
-                  </a>
+                  </Link>
                 </div>
               </div>
 
@@ -54,15 +54,15 @@ const Management = () => {
                   alt="MRR sir img"
                 />
                 <div id="Socialmedia">
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-instagram"></i>
-                  </a>
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  </Link>
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-facebook-square fbook"></i>
-                  </a>
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  </Link>
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-twitter"></i>
-                  </a>
+                  </Link>
                 </div>
               </div>
               <p className="data">
@@ -93,15 +93,15 @@ const Management = () => {
                   alt="kotaiah sir img"
                 />
                 <div id="Socialmedia">
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-instagram"></i>
-                  </a>
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  </Link>
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-facebook-square fbook"></i>
-                  </a>
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  </Link>
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-twitter"></i>
-                  </a>
+                  </Link>
                 </div>
               </div>
               <p className="data">
@@ -138,15 +138,15 @@ const Management = () => {
                   alt="VR sir img"
                 />
                 <div id="Socialmedia">
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-instagram"></i>
-                  </a>
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  </Link>
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-facebook-square fbook"></i>
-                  </a>
-                  <a href="/" target="_blank" rel="noopener noreferrer">
+                  </Link>
+                  <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-twitter"></i>
-                  </a>
+                  </Link>
                 </div>
               </div>
               <p className="data">
