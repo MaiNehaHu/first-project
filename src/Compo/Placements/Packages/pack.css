@@ -96,9 +96,6 @@ body {
 
   -ms-overflow-style: none;  /* IE and Edge */
 }
-.scrollers::-webkit-scrollbar {
-    display: none;
-}
 
 @media screen and (max-width:1440px){
   .scrollers{

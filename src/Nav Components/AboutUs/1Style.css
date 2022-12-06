@@ -111,9 +111,7 @@
 
   -ms-overflow-style: none; /* IE and Edge */
 }
-.carousels::-webkit-scrollbar {
-  display: none;
-}
+
 .info {
   height: 550px;
 

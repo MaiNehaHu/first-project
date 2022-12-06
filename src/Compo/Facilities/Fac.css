@@ -22,9 +22,7 @@ body {
 
   cursor: default;
 }
-.scrollerBoxx::-webkit-scrollbar {
-  display: none;
-}
+
 
 .BOXX {
   height: 400px;

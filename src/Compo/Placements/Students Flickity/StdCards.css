@@ -25,9 +25,7 @@ body {
 
   -ms-overflow-style: none; /* IE and Edge */
 }
-.scroller::-webkit-scrollbar {
-  display: none;
-}
+
 
 .element {
   height: 360px;

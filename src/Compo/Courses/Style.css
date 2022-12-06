@@ -21,9 +21,6 @@ body {
   -ms-overflow-style: none; /* IE and Edge */
   cursor: default;
 }
-.scrollerBox::-webkit-scrollbar {
-  display: none;
-}
 
 .ele {
   height: 400px;
