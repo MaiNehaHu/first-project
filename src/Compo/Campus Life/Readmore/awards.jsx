@@ -3,7 +3,7 @@ import "../../../Nav Components/AboutUs/1Style.css";
 
 const ReadMoreawards = () => {
   return (
-    <div className="bodyy coursee" id="civil">
+    <div className="bodyy" id="awards">
       <h4 className="heading">Awards and Recognitions</h4>
       <div className="displayblock">
         <p className="lines">
@@ -17,6 +17,40 @@ const ReadMoreawards = () => {
             <li>
               Team Sahara ECE R&D had great victory in IIIT-NUZIVIDU, IIT-Hyd.
             </li>
+            <li>
+              Mr.Sumanth, Training and Placement HOD- received award as a Best.
+            </li>
+            <li>
+              IT Dept. III Yr Nitya selected as a Campus Ambassador @ NIT
+              Warangal.
+            </li>
+            <li>
+              Congratulations to CSE students for AICTE-ECI-ISTE CHHATRA
+              VISHWAKARMA AWARDS 2019.
+            </li>
+
+            <li>Certificate of Appreciation from GGSY</li>
+            <li>2nd prize to MLRITM girls in kabaddi</li>
+            <li>
+              Secured 1st Position in DIGITHON conducted by TITA2020 on 8th
+              March 2020
+            </li>
+            <li>Dept. CSE/IT Faculty Achieved PATENT Rights.</li>
+            <li>Educational Institute Member</li>
+            <li>Oracle Membership Award</li>
+            <li>
+              Citizen of Gold Award- for Excellence in Social Service-2017
+            </li>
+            <li>Task Recognition - 2018</li>
+            <li>SAEINDIA - Knowledge Round Table</li>
+            <li>National Employability Award -2022</li>
+            <li>ACM Certificate of Chapter 03-Oct-2016</li>
+            <li>ISO CERTIFIED COLLEGE (ISO 9001:2015)</li>
+            <li>TASK Recognition 2019-2020</li>
+            <li>
+              Association of Consulting Civil engineers(INDIA)- Life Member
+            </li>
+            <li>Certificate of Association 2018-2019</li>
             <li>
               Team SAHARA from ECE R&D secured Prizes @ NIT Warangal in National
               Level Technical @Technozin
@@ -89,41 +123,6 @@ const ReadMoreawards = () => {
               titled“Multilevel Pipilined Processing for Aerial Image
               Restoration”
             </li>
-            <li>
-              Mr.Sumanth, Training and Placement HOD- received award as a Best.
-            </li>
-            <li>
-              IT Dept. III Yr Nitya selected as a Campus Ambassador @ NIT
-              Warangal.
-            </li>
-            <li>
-              Congratulations to CSE students for AICTE-ECI-ISTE CHHATRA
-              VISHWAKARMA AWARDS 2019.
-            </li>
-
-            <li>Certificate of Appreciation from GGSY</li>
-            <li>2nd prize to MLRITM girls in kabaddi</li>
-            <li>
-              Secured 1st Position in DIGITHON conducted by TITA2020 on 8th
-              March 2020
-            </li>
-            <li>Dept. CSE/IT Faculty Achieved PATENT Rights.</li>
-            <li>Educational Institute Member</li>
-            <li>Oracle Membership Award</li>
-            <li>
-              Citizen of Gold Award- for Excellence in Social Service-2017
-            </li>
-            <li>Task Recognition - 2018</li>
-            <li>SAEINDIA - Knowledge Round Table</li>
-            <li>National Employability Award -2022</li>
-            <li>ACM Certificate of Chapter 03-Oct-2016</li>
-            <li>ISO CERTIFIED COLLEGE (ISO 9001:2015)</li>
-            <li>TASK Recognition 2019-2020</li>
-            <li>
-              Association of Consulting Civil engineers(INDIA)- Life Member
-            </li>
-            <li>Certificate of Association 2018-2019</li>
-    
           </ul>
         </p>
       </div>

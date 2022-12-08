@@ -24,97 +24,97 @@ const ResultAnalysis = () => {
               <tr>
                 <td>1</td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">I YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">I YEAR I SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">I YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">I YEAR I SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">I YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">I YEAR I SEM</Link>
                 </td>
               </tr>
               <tr>
                 <td>2</td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">I YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">I YEAR II SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">I YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">I YEAR II SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">I YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">I YEAR II SEM</Link>
                 </td>
               </tr>
               <tr>
                 <td>3</td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">II YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">II YEAR I SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">II YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">II YEAR I SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">II YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">II YEAR I SEM</Link>
                 </td>
               </tr>
               <tr>
                 <td>4</td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">II YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">II YEAR II SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">II YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">II YEAR II SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">II YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">II YEAR II SEM</Link>
                 </td>
               </tr>
               <tr>
                 <td>5</td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">III YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">III YEAR I SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">III YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">III YEAR I SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">III YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">III YEAR I SEM</Link>
                 </td>
               </tr>
               <tr>
                 <td>6</td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">III YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">III YEAR II SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">III YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">III YEAR II SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">III YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">III YEAR II SEM</Link>
                 </td>
               </tr>
               <tr>
                 <td>7</td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">IV YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">IV YEAR I SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">IV YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">IV YEAR I SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">IV YEAR I SEM</Link>
+                  <Link to="/ResultAnalysis">IV YEAR I SEM</Link>
                 </td>
               </tr>
               <tr>
                 <td>8</td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">IV YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">IV YEAR II SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">IV YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">IV YEAR II SEM</Link>
                 </td>
                 <td>
-                  <Link to="/ExaminationCell/ResultAnalysis">IV YEAR II SEM</Link>
+                  <Link to="/ResultAnalysis">IV YEAR II SEM</Link>
                 </td>
               </tr>
             </tbody>

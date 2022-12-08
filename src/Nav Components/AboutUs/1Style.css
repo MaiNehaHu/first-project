@@ -238,3 +238,9 @@
     overflow-y: scroll;
   }
 }
+
+
+#awards > .displayblock > .lines > ul > *{
+  margin-top: 20px;
+  margin-bottom: 5px;
+}

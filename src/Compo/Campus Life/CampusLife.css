@@ -8,6 +8,7 @@
   display: flex;
   flex-wrap: wrap;
 }
+
 @media screen and (max-width:883px) and (min-width:630px) {
   .Flexer{
     gap: 0vw;

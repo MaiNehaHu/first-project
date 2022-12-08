@@ -22,6 +22,7 @@
   font-family: "Acme", sans-serif;
 }
 
+
 @media screen and (max-width: 900px) {
   .Avards {
     width: 100vw;
