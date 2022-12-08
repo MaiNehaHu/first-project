@@ -2,8 +2,8 @@ import React from "react";
 import "./navbar.css";
 
 import Image from "./college image/image";
-import RealNav from "./realnav/realnav";
-import Navs from './realnav/navs'
+import RealNav from "./Navigation Bar/realnav";
+import Navs from "./Navigation Bar/navs";
 
 const Nav = () => {
   return (

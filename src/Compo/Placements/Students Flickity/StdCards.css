@@ -6,19 +6,6 @@ body {
   font-family: sans-serif;
 }
 
-::-webkit-scrollbar{
-  height: 15px;
-  width: 15px;
-}
-::-webkit-scrollbar-track{
-  border-radius: 10vw;
-}
-::-webkit-scrollbar-thumb{
-  border-radius: 10vw;
-  background-color: navy;
-  border-style:groove;
-}
-
 
 .scroller {
   width: 47vw;
