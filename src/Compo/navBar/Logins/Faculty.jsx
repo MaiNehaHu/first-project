@@ -8,8 +8,8 @@ const FacultyLogin = () => {
       <h4 className="heading">Faculty Login</h4>
       <div className="Contentblock">
         <p className="lines">Click on button to Login</p>
-        <button>Faculty Login</button>
-        <button>Faculty ERP Login</button>
+        <button><a href="https://mlritmexams.com/BeesERP/Login.aspx" target="blank">Faculty Login</a></button>
+        <button><a href="https://mlritmexams.com/BeesERP/Login.aspx" target="blank">Faculty ERP Login</a></button>
       </div>
     </div>
   );

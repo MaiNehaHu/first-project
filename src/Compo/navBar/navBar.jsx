@@ -3,7 +3,7 @@ import "./navbar.css";
 
 import Image from "./college image/image";
 import RealNav from "./realnav/realnav";
-import Navs from './realnav/nav'
+import Navs from './realnav/navs'
 
 const Nav = () => {
   return (

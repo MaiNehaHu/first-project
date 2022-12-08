@@ -33,15 +33,18 @@
   border: 0px;
 
   background-color: navy;
-  color: white;
   box-shadow: 3px 3px 3px black;
-  font-weight: 600;
   font-size: larger;
+
+  font-family: "Acme",sans-serif;
+  letter-spacing: 0.6px;
 }
+
 .log > .Contentblock > button:hover {
   background-color: blue;
   box-shadow: 5px 5px 5px black;
 }
+
 @media screen and (max-width: 530px) {
   .Contentblock {
     background: url("https://cdn-icons-png.flaticon.com/512/5087/5087579.png");
@@ -58,4 +61,9 @@
     width: 150px;
     font-size: medium;
   }
+}
+
+.Contentblock > button> *{
+  text-decoration: none;
+  color: white;
 }

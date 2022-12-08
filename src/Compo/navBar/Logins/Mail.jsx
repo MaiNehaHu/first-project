@@ -8,7 +8,7 @@ const MailLogin = () => {
       <h4 className="heading">Mail Login</h4>
         <div className="Contentblock">
           <p className="lines">Click on Button to Login</p>
-          <button>MLRITM Mail Login</button>
+          <button><a href="https://mlritmexams.com/BeesERP/Login.aspx" target="blank">MLRITM Mail Login</a></button>
         </div>
       
     </div>

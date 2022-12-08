@@ -6,12 +6,26 @@ body {
   font-family: sans-serif;
 }
 
+::-webkit-scrollbar{
+  height: 15px;
+  width: 15px;
+}
+::-webkit-scrollbar-track{
+  border-radius: 10vw;
+}
+::-webkit-scrollbar-thumb{
+  border-radius: 10vw;
+  background-color: navy;
+  border-style:groove;
+}
+
+
 .scroller {
   width: 47vw;
   height: 400px;
 
   position: relative;
-  top: -10px;
+  top: -15px;
   --_spacer: 10px;
   display: grid;
   gap: var(--_spacer);
@@ -44,35 +58,6 @@ body {
   cursor:default;
 }
 
-@media screen and (max-width: 1440px) {
-  .scroller {
-    width: 100vw;
-    position: relative;
-    top: -10px;
-  }
-  .scroller {
-    grid-auto-columns: 22%;
-  }
-}
-@media screen and (max-width: 1122px) {
-  .scroller {
-    grid-auto-columns: 27%;
-  }
-}
-@media screen and (max-width: 883px) {
-  .scroller {
-    grid-auto-columns: 39%;
-  }
-}
-@media screen and (max-width: 630px) {
-  .scroller {
-    grid-auto-columns: 59%;
-  }
-  .element {
-    overflow-y: scroll;
-  }
-}
-
 .element > img {
   inline-size: 100%;
   aspect-ratio: 5 / 3;
@@ -86,16 +71,6 @@ body {
 
 .snaps-inline > * {
   scroll-snap-align: start;
-}
-
-@media screen and (max-width: 883px) {
-  .studentCard {
-    width: 100vw;
-    height: 350px;
-    overflow-y: scroll;
-
-    border-radius: 0;
-  }
 }
 
 .contentS {
@@ -137,6 +112,17 @@ body {
 
   cursor:default;
 }
+
+@media screen and (max-width: 883px) {
+  .studentCard {
+    width: 100vw;
+    height: 350px;
+    overflow-y: scroll;
+
+    border-radius: 0;
+  }
+}
+
 @media screen and (min-width: 1440px) {
   #heading {
     width: 47vw;
@@ -144,3 +130,33 @@ body {
 }
 
 /* general styling */
+
+
+@media screen and (max-width: 1440px) {
+  .scroller {
+    width: 100vw;
+    position: relative;
+    top: -10px;
+  }
+  .scroller {
+    grid-auto-columns: 22%;
+  }
+}
+@media screen and (max-width: 1122px) {
+  .scroller {
+    grid-auto-columns: 27%;
+  }
+}
+@media screen and (max-width: 883px) {
+  .scroller {
+    grid-auto-columns: 39%;
+  }
+}
+@media screen and (max-width: 630px) {
+  .scroller {
+    grid-auto-columns: 59%;
+  }
+  .element {
+    overflow-y: scroll;
+  }
+}
