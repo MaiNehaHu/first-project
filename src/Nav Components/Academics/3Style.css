@@ -11,6 +11,10 @@
 #syllabus > .displayblock > a:hover {
   text-decoration: underline;
 }
+#syllabus > .displayblock > img {
+  height: 200px;
+  object-fit: cover;
+}
 .head1 {
   text-align: start;
   margin-left: 10px;

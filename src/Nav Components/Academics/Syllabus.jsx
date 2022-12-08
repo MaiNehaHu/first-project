@@ -9,7 +9,7 @@ const Syllabus = () => {
       <h4 className="heading">Syllabus</h4>
       <div className="displayblock">
         <img
-          src="https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-cartoon-hand-painted-teachers-day-blackboard-image_13853.jpg"
+          src="https://images.shiksha.com/mediadata/images/articles/1611722841phpI5SJOq.jpeg"
           alt="syllabus"
         />
         <h3 className="heads head1">
