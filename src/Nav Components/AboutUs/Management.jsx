@@ -17,9 +17,9 @@ const Management = () => {
                   alt="MLR sir"
                 />
                 <div id="Socialmedia">
-                  <Link to="/management"  rel="noopener noreferrer">
+                  <a href="https://www.instagram.com/mlr_laxman_reddy/" target="_blank">
                     <i className="fa fa-instagram"></i>
-                  </Link>
+                  </a>
                   <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-facebook-square fbook"></i>
                   </Link>
@@ -54,9 +54,9 @@ const Management = () => {
                   alt="MRR sir img"
                 />
                 <div id="Socialmedia">
-                  <Link to="/management"  rel="noopener noreferrer">
+                  <a href="https://www.instagram.com/marrirajasekar/"  target="_blank">
                     <i className="fa fa-instagram"></i>
-                  </Link>
+                  </a>
                   <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-facebook-square fbook"></i>
                   </Link>
@@ -138,9 +138,9 @@ const Management = () => {
                   alt="VR sir img"
                 />
                 <div id="Socialmedia">
-                  <Link to="/management"  rel="noopener noreferrer">
+                  <a href="https://www.instagram.com/dr.kvreddy/" target="_blank">
                     <i className="fa fa-instagram"></i>
-                  </Link>
+                  </a>
                   <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-facebook-square fbook"></i>
                   </Link>
