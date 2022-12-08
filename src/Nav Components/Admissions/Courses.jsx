@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom'
 const Coursesintake = () => {
   return (
     <div className="bodyy" id="courses">
-      <h4 className="heading">UG/PG Programmes Intake</h4>
+      <h4 className="heading">UG / PG Programmes Intake</h4>
       <div className="displayblock">
         <div id="ugtable" className="Navtable">
           <table>

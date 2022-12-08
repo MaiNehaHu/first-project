@@ -3,7 +3,6 @@
   color: navy;
 
   font-family: "kalam", cursive;
-  font-weight: 700;
   font-size: larger;
 
   padding: 0px 25px 0px;
@@ -20,6 +19,7 @@
 #Described > p {
   padding: 10px 15px 0px;
   cursor: default;
+  font-family: "Acme", sans-serif;
 }
 
 @media screen and (max-width: 900px) {

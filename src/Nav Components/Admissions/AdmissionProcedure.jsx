@@ -19,9 +19,7 @@ const AdmissionProcedure = () => {
           State Council of Higher Education, Commissioner of Technical
           Education, JNTUH University and the Conveners of various UG and PG
           Common Entrance Tests etc. from time to time.
-          <br />
-          {" "}
-          <br/>
+          <br /> <br />
           The admission to the B.Tech. course, under “Category A” seats, is
           through a state level entrance test called “Engineering, Agricultural
           Sciences and Medical Common Entrance Test” (EAMCET), conducted by
@@ -33,19 +31,21 @@ const AdmissionProcedure = () => {
           called “TS ICET (Telangana State Integrated Common Entrance Test).
           <br />
         </p>
-
+        <hr />
         <h6 className="heads">A- Category (Convener Quota)</h6>
         <p className="lines">
           70% of the students are admitted under “Category A” by the Convener of
           EAMCET based on the rank secured in EAMCET and as per the rules of
           reservation in force.
         </p>
+        <hr />
         <h6 className="heads">B- Category (Management Quota)</h6>
         <p className="lines">
           30% of the students are admitted under “Category B” by the college
           management based on the guidelines issued by the government of
           Telangana.
         </p>
+        <hr />
         <h6 className="heads">
           Admission to the second year of 4-year B.Tech Degree (Lateral Entry)
           Programme in Engineering:
@@ -57,6 +57,7 @@ const AdmissionProcedure = () => {
           the merit ranks obtained by the students in TSECET (State Level Common
           Entrance Test)
         </p>
+        <hr />
         <h6 className="heads">
           Spot Admission Procedure for B.Tech 4-year Course:
         </h6>
@@ -64,6 +65,7 @@ const AdmissionProcedure = () => {
           Any seats left vacant in the convener quota, will be filled by the
           institution based on the guidelines given by Convener TSEAMCET.
         </p>
+        <hr />
         <h6 className="heads">Procedure:</h6>
         <p className="lines">
           The College issues an advertisement after necessary approval. The spot
@@ -77,14 +79,13 @@ const AdmissionProcedure = () => {
           Admission will be made based on the guidelines issued by the Convener
           TSECET.
         </p>
+        <hr />
         <h6 className="heads">Procedure:</h6>
         <p className="lines">
           The College issues an advertisement after necessary approval. The spot
           admissions will be made according to the guidelines issued from time
           to time by the Convener TSECET.
-          <br />
-              {" "}
-              <br/>
+          <br /> <br />
           All admissions made at institute level (Spot Admissions) are subject
           to approval of competent authorities.
         </p>
@@ -93,17 +94,16 @@ const AdmissionProcedure = () => {
         <p className="lines">
           Candidates have to fulfill certain eligibility criteria given below
           laid down by the admission authority before filling the Telangana MBA
-          <br />
-              {" "}
-              <br/>
+          <br /> <br />
           Application Form:
-          <br /> 
+          <br />
           The candidate must be a graduate in any discipline recognized by the
           UGC/the Association of Indian Universities/AICTE from a recognized
           university with an aggregate of 50%Candidates must score the minimum
           required marks in the CAT/MAT/SNAP/TS ICET Only students from the
           state of Telangana can attempt the TSICET exams.
         </p>
+        <hr />
         <div id="Admitable" className="Navtable">
           <table>
             <thead>

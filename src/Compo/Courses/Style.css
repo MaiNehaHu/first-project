@@ -112,9 +112,8 @@ body {
 #courseName {
   color: darkblue;
   font-size: 21px;
-  font-weight: 600;
 
-  font-family: "Kalam", cursive;
+  font-family: "Acme", sans-serif;
 
   display: flex;
   justify-content: center;

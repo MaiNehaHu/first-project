@@ -8,6 +8,8 @@ body {
 
 #PackagesOfferedByCompanies{
   height: 360px;
+  position: relative;
+  top: -10px;
   margin-top: 10px;
   margin-bottom: 10px;
 }

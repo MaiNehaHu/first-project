@@ -19,8 +19,8 @@
   width: 100vw;
   text-align: center;
   font-weight: 700;
-  color: darkblue;
-  font-size: 23px;
+  color: blue;
+  font-size: 26px;
   padding: 10px 0px 10px;
   font-family: "Acme", sans-serif;
 }
@@ -35,13 +35,13 @@
   width: 100vw;
   word-wrap: break-word;
   word-break: keep-all;
-  font-family: "kalam", cursive;
+  font-family: "Acme", sans-serif;
   font-size: 20px;
   padding: 5px 20px 0px;
   color: navy;
-  font-weight: 600;
 
-  word-spacing: 3.5px;
+  word-spacing: 7px;
+  letter-spacing: 0px;
 }
 .displayblock {
   position: relative;

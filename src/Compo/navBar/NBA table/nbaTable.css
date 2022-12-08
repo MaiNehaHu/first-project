@@ -61,7 +61,7 @@
   text-align: center;
 }
 .nbatable > table > tbody > tr > *{
-  font-family: "kalam",cursive;
+  word-spacing: 5px;
 }
 @media screen AND (MAX-WIDTH:530PX) {
   .nbatable > table > tbody > tr > *{

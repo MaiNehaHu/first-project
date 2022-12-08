@@ -13,7 +13,7 @@
 #resultTable > table > tbody > tr > * {
   border: 2px solid navy;
   padding: 5px 15px 5px;
-  font-family: "kalam", cursive;
+  font-family: "Acme", sans-serif;
   color: darkblue;
 }
 #resultTable > table > tbody > tr > td >* {

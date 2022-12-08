@@ -98,9 +98,8 @@
   font-weight: 700;
 }
 #EventName {
-  font-family: "kalam", cursive;
+  font-family: "Acme", sans-serif;
   color: navy;
-  font-weight: 700;
   height: 100%;
   width: 88vw;
   font-size: large;

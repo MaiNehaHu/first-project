@@ -29,7 +29,9 @@
 .content {
   cursor: default;
   font-size: 18px;
-  font-family: "kalam", cursive;
+  font-family: "Acme", sans-serif;
+  word-spacing: 5px;
+  letter-spacing: 0.6px;
 }
 @media screen and (max-width: 530px) {
   .alumniBtn {

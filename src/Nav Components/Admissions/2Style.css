@@ -53,13 +53,11 @@
   border: 2px solid navy;
   cursor: context-menu;
   text-align: start;
-  font-family: "kalam", cursive;
+  font-family: "Acme", sans-serif;
   color: darkblue;
   padding: 5px 0px 5px;
 }
-.Navtable > table > tbody > tr > * {
-  font-weight: 700;
-}
+
 #AdmissionProc > .lines > img {
   /*admission procedure image*/
   width: 40vw;
@@ -95,9 +93,7 @@
   border: 2px solid navy;
   padding: 5px 7px 5px;
 }
-.Navtable > table > tbody > tr > *{
-  font-weight: 600;
-}
+
 .Navtable >table > thead > * {
   font-size: 24px;
 }

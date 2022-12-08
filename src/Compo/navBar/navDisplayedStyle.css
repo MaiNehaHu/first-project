@@ -8,6 +8,7 @@ body {
   justify-content: center;
   align-items: flex-start;
   width: 93vw;
+  font-family: "Acme", sans-serif;
 }
 .title {
   font-size: 200%;
