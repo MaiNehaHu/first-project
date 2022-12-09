@@ -128,7 +128,7 @@ body {
     aspect-ratio: 1/1.001;
   }
   .scrollerBoxx {
-    height: 440px;
+    height: 430px;
   }
 }
 @media screen and (max-width: 666px) {
@@ -175,7 +175,13 @@ body {
     aspect-ratio: 1/1;
   }
   .scrollerBoxx{
-    height: 370px;
+    height: 380px;
+  }
+}
+@media screen and (max-width: 1440px) {
+  #Facilities {
+    position: relative;
+    top: -10px;
   }
 }
 @media screen and (max-width: 1166px) {

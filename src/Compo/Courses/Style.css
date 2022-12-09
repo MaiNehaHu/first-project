@@ -60,7 +60,7 @@ body {
     height: 400px;
   }
   .ele {
-    height: 360px;
+    height: 340px;
   }
   .scrollerBox {
     grid-auto-columns: 22%;
@@ -84,9 +84,6 @@ body {
   .scrollerBox {
     grid-auto-columns: 58%;
     height: 440px;
-  }
-  .ele {
-    height: 400px;
   }
 }
 @media screen and (max-width: 530px) {
@@ -155,7 +152,7 @@ body {
 @media screen and (max-width: 883px) {
   .Component {
     position: relative;
-    top: 260px;
+    top: 270px;
   }
 }
 @media screen and (max-width: 772px) {
@@ -173,13 +170,13 @@ body {
 @media screen and (max-width: 618px) {
   .Component {
     position: relative;
-    top: 330px;
+    top: 340px;
   }
 }
 @media screen and (max-width: 600px) {
   .Component {
     position: relative;
-    top: 770px;
+    top: 780px;
   }
 }
 

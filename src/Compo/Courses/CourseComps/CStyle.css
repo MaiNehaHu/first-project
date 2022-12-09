@@ -11,7 +11,7 @@
 }
 .coursee > .displayblock > div > img {
   width: 40vw;
-  height: 37vh;
+  height: 300px;
   object-fit: cover;
   float: right;
   margin: 5px 15px 0px;
@@ -27,7 +27,7 @@
   #civil > .displayblock > div > img,
   #mba > .displayblock > div > img {
     width: 50vw;
-    height: 20vh;
+    height: 200px;
     float: right;
     margin: 5px 15px 0px;
   }

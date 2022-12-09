@@ -18,7 +18,7 @@
 @media screen and (max-width: 1440px) {
   #CampusLife {
     position: relative;
-    top: 30;
+    top: 30px;
   }
 }
 @media screen and (max-width: 1166px) {
@@ -36,19 +36,19 @@
 @media screen and (max-width: 930px) {
   #CampusLife {
     position: relative;
-    top: 80px;
+    top: 90px;
   }
 }
 @media screen and (max-width: 883px) {
   #CampusLife {
     position: relative;
-    top: 260px;
+    top: 280px;
   }
 }
 @media screen and (max-width: 772px) {
   #CampusLife {
     position: relative;
-    top: 290px;
+    top: 300px;
   }
 }
 @media screen and (max-width: 740px) {
@@ -57,10 +57,10 @@
     top: 300px;
   }
 }
-@media screen and (max-width: 626px) {
+@media screen and (max-width: 630px) {
   #CampusLife {
     position: relative;
-    top: 350px;
+    top: 300px;
   }
 }
 @media screen and (max-width: 600px) {

@@ -136,8 +136,8 @@
   flex-direction: row;
 }
 .sirsImages {
-  width: 20vw;
-  height: 60vh;
+  width: 25vw;
+  height: 440px;
   margin: 10px 10px 0px;
   object-fit: cover;
   border-radius: 10px;
