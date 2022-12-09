@@ -152,31 +152,31 @@ body {
 @media screen and (max-width: 883px) {
   .Component {
     position: relative;
-    top: 270px;
+    top: 260px;
   }
 }
 @media screen and (max-width: 772px) {
   .Component {
     position: relative;
-    top: 290px;
+    top: 280px;
   }
 }
 @media screen and (max-width: 626px) {
   .Component {
     position: relative;
-    top: 310px;
+    top: 300px;
   }
 }
 @media screen and (max-width: 618px) {
   .Component {
     position: relative;
-    top: 340px;
+    top: 330px;
   }
 }
 @media screen and (max-width: 600px) {
   .Component {
     position: relative;
-    top: 780px;
+    top: 765px;
   }
 }
 

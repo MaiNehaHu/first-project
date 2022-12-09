@@ -32,7 +32,6 @@ body {
 }
 @media screen and (max-width:1440px) {
   .packagedisplay{ /*texts*/
-    top:9vh;
     font-size: 30px;
     font-weight: 800;
   }

@@ -68,7 +68,7 @@
 #principalSirPic {
   width: 45vw;
   float: right;
-  height: 59vh;
+  height: 400px;
   margin: 10px 10px 0px;
   object-fit: cover;
 
@@ -202,7 +202,7 @@
   #principalSirPic {
     width: 45vw;
     float: right;
-    height: 30vh;
+    height: 350px;
     margin: 10px 10px 0px;
     object-fit: cover;
   }
