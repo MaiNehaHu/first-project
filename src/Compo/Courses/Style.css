@@ -24,6 +24,7 @@ body {
 }
 
 .ele {
+  height: 460px;
   display: grid;
   grid-template-rows: max-content;
   gap: var(--_spacer);
