@@ -14,11 +14,12 @@ body {
   grid-auto-flow: column;
   grid-auto-columns: 23%;
 
-  padding: var(--_spacer) var(--_spacer) var(--_spacer);
+  padding: 0 var(--_spacer) 0;
 
   overflow-x: auto;
   overscroll-behavior-inline: contain;
   -ms-overflow-style: none; /* IE and Edge */
+
   cursor: default;
 }
 
