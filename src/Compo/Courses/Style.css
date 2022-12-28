@@ -23,7 +23,6 @@ body {
 }
 
 .ele {
-  height: 400px;
   display: grid;
   grid-template-rows: max-content;
   gap: var(--_spacer);
