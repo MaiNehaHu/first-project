@@ -23,9 +23,9 @@ const Management = () => {
                   <Link to="/management"  rel="noopener noreferrer">
                     <i className="fa fa-facebook-square fbook"></i>
                   </Link>
-                  <Link to="/management"  rel="noopener noreferrer">
+                  <a href="https://twitter.com/MLRLaxmanReddy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
                     <i className="fa fa-twitter"></i>
-                  </Link>
+                  </a>
                 </div>
               </div>
 

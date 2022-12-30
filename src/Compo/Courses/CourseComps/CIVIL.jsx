@@ -14,7 +14,7 @@ const CIVIL = () => {
             src="https://hsewatch.com/wp-content/uploads/2022/09/Safety-Engineering.webp"
             alt="civil"
           />
-          <img src="https://www.mlritm.ac.in/assets/img/Survey%20lab_0.jpg" />
+          <img src="civil" />
         </div>
         <p className="lines">
           Civil Engineering is a broad field of engineering that deals with the
