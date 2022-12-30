@@ -39,7 +39,7 @@ export const VisionandMission = () => {
               src="vandM.jpg"
               alt="project"
             />
-            <img src="https://www.mlritm.ac.in/assets/img/m2.jpg" alt="lab" />
+            <img src="VissionAnd Mision.jpg" alt="lab" />
           </div>
           <p className="lines">
             Create an atmosphere that facilitates the success of students.
