@@ -14,7 +14,7 @@ const CIVIL = () => {
             src="https://media.istockphoto.com/id/1184345473/photo/future-building-construction-engineering-project.jpg?s=612x612&w=0&k=20&c=mIv4yCtOd5pC3VuO01BNUa4xTGb2YUiPNU-9EGtQplQ="
             alt="civil"
           />
-          <img src="civilEngin.jpg" />
+          <img src="civilEngin.jpg" alt="civil" />
         </div>
         <p className="lines">
           Civil Engineering is a broad field of engineering that deals with the
