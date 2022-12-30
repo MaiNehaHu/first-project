@@ -11,10 +11,10 @@ const CIVIL = () => {
       <div className="displayblock">
         <div id="civil">
           <img
-            src="https://hsewatch.com/wp-content/uploads/2022/09/Safety-Engineering.webp"
+            src="civil.jpg"
             alt="civil"
           />
-          <img src="civil" />
+          <img src="civilEngin.jpg" />
         </div>
         <p className="lines">
           Civil Engineering is a broad field of engineering that deals with the
