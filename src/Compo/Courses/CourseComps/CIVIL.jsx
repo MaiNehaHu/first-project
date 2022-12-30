@@ -11,7 +11,7 @@ const CIVIL = () => {
       <div className="displayblock">
         <div id="civil">
           <img
-            src="civil.jpg"
+            src="https://media.istockphoto.com/id/1184345473/photo/future-building-construction-engineering-project.jpg?s=612x612&w=0&k=20&c=mIv4yCtOd5pC3VuO01BNUa4xTGb2YUiPNU-9EGtQplQ="
             alt="civil"
           />
           <img src="civilEngin.jpg" />
