@@ -36,7 +36,7 @@ export const VisionandMission = () => {
           <hr />
           <div id="pics">
             <img
-              src="https://www.mlritm.ac.in/assets/img/m1.jpg"
+              src="vandM.jpg"
               alt="project"
             />
             <img src="https://www.mlritm.ac.in/assets/img/m2.jpg" alt="lab" />
