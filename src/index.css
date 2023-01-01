@@ -4,13 +4,16 @@
 }
 body {
   -ms-overflow-style: none; /* IE and Edge */
-  width: 100vw;
+  min-width: 100vw;
+  overflow-x: hidden;
 }
+/*scroll for body*/
 body::-webkit-scrollbar {
   display: none;
 }
 
-::-webkit-scrollbar{
+/*Scrolls in components*/
+::-webkit-scrollbar{ 
   height: 15px;
   width: 15px;
 }
@@ -21,4 +24,7 @@ body::-webkit-scrollbar {
   border-radius: 10vw;
   background-color: navy;
   border-style:groove;
+}
+::-webkit-scrollbar-thumb:hover{
+  background-color: rgb(12, 12, 252);
 }
