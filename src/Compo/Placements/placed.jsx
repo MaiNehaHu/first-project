@@ -4,7 +4,7 @@ import Count from "./counter";
 import PackagesOffered from "./Packages/packages";
 
 import "./placed.css";
-import StudentCards from "./Students Flickity/StudentCards";
+import StudentCards from "./Testimonials/StudentCards";
 
 const Placements = () => {
   return (
