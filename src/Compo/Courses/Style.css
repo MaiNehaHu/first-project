@@ -12,7 +12,7 @@ body {
   display: grid;
   gap: var(--_spacer);
   grid-auto-flow: column;
-  grid-auto-columns: 23%;
+  grid-auto-columns: 24%;
 
   padding: 0 var(--_spacer) 0;
 
@@ -61,7 +61,8 @@ body {
     height: 400px;
   }
   .ele {
-    height: 380px;
+    height: 370px;
+    margin-bottom: 5px;
   }
   .scrollerBox {
     grid-auto-columns: 22%;
@@ -71,6 +72,10 @@ body {
   .scrollerBox {
     grid-auto-columns: 27%;
   }
+  .ele {
+    height: 360px;
+    margin-bottom: 5px;
+  }
 }
 @media screen and (max-width: 883px) {
   .scrollerBox {
@@ -78,7 +83,7 @@ body {
     height: 440px;
   }
   .ele {
-    height: 380px;
+    height: 410px;
   }
 }
 @media screen and (max-width: 630px) {

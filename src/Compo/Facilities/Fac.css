@@ -88,6 +88,9 @@ body {
   .FacilityPhoto > img {
     aspect-ratio: 1/0.6;
   }
+  .BOXX{
+    height: 410px;
+  }
 }
 @media screen and (max-width: 1235px) {
   .scrollerBoxx {
