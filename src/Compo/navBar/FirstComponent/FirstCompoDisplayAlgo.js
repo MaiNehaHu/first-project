@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Alumni } from "./ALUMNI/alumni";
-import "./navDisplayedStyle.css";
+import "./FirstDisplayedStyle.css";
 import { NBATable } from "./NBA table/nbaTable";
 
 import NIRFrank from "./NIRF/NIRFRanking";

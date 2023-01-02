@@ -3,7 +3,7 @@ import Company from "./companies/company";
 import Count from "./counter";
 import PackagesOffered from "./Packages/packages";
 
-import "./placed.css";
+import "./Placements.css";
 import StudentCards from "./Testimonials/StudentCards";
 
 const Placements = () => {

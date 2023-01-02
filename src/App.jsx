@@ -2,7 +2,7 @@ import React from "react";
 import "./index.css";
 
 import Home from "./Home";
-import Nav from "./Compo/navBar/navBar";
+import Nav from "./Compo/navBar/Nav";
 
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
@@ -74,9 +74,9 @@ import Library from "./Compo/Facilities/Compo/Library";
 import Error from "./Compo/Error";
 
 
-import StudentLogin from "./Compo/navBar/Logins/Student";
-import FacultyLogin from "./Compo/navBar/Logins/Faculty";
-import MailLogin from "./Compo/navBar/Logins/Mail";
+import StudentLogin from "./Compo/navBar/FirstComponent/Logins/Student";
+import FacultyLogin from "./Compo/navBar/FirstComponent/Logins/Faculty";
+import MailLogin from "./Compo/navBar/FirstComponent/Logins/Mail";
 
 const App = () => {
   return (

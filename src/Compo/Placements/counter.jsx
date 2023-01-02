@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useEffect } from "react";
 import { useRef } from "react";
 
-import './placed.css'
+import './Placements.css'
 
 const Count = () => {
   const [state, setState] = useState("000");

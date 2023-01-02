@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 
-import Display from '../navDisplayAlgo';
-import Data from "../navData";
-import "../navbar.css";
+import Display from './FirstCompoDisplayAlgo';
+import Data from "./FirstCompoDisplayData";
+import "./firstStyle.css";
 
-const Navs = () => {
+const FirstComponent = () => {
   const [active, setActive] = useState("null");
 
   return (
@@ -80,4 +80,4 @@ const Navs = () => {
   );
 };
 
-export default Navs;
+export default FirstComponent;

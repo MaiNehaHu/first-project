@@ -1,6 +1,8 @@
 import React from "react";
 import {Link} from 'react-router-dom'
 import "./Followus.css";
+import "./Heights.css";
+
 export const Followus = () => {
   return (
     <>

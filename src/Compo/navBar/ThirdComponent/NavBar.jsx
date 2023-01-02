@@ -1,8 +1,8 @@
 import React from "react";
-import "./realnav.css";
+import "./NavBar.css";
 import { Link } from "react-router-dom";
 
-const RealNav = () => {
+const NavBar = () => {
   return (
     <>
       <div id="navbar">
@@ -259,4 +259,4 @@ const RealNav = () => {
   );
 };
 
-export default RealNav;
+export default NavBar;

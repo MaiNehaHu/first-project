@@ -1,6 +1,6 @@
 import React from "react";
 import './Design.css'
-import "../../../Nav Components/AboutUs/1Style.css";
+import "../../../../Nav Components/AboutUs/1Style.css";
 
 
 const StudentLogin = () => {
