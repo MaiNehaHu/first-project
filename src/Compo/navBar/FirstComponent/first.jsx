@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-import Display from './FirstCompoDisplayAlgo';
-import Data from "./FirstCompoDisplayData";
+import Display from './OnClickDisplayAlgo';
+import Data from "./OnClickDisplayData";
 import "./firstStyle.css";
 
 const FirstComponent = () => {

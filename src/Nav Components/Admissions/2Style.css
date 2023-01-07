@@ -1,3 +1,4 @@
+
 /*why mlritm*/
 .displaybox {
   width: 100vw;
@@ -34,8 +35,6 @@
   display: flex;
   justify-content: center;
 }
-
-
 
 /*Amission procedure*/
 .Navtable {
@@ -78,8 +77,7 @@
   display: flex;
   justify-content: center;
 }
-.Navtable > table
-{
+.Navtable > table {
   width: 90vw;
   font-family: "kalam", cursive;
   color: darkblue;
@@ -89,22 +87,22 @@
   word-break: break-all;
 }
 .Navtable > table > thead > *,
-.Navtable > table > tbody > tr > *{
+.Navtable > table > tbody > tr > * {
   border: 2px solid navy;
   padding: 5px 7px 5px;
 }
 
-.Navtable >table > thead > * {
+.Navtable > table > thead > * {
   font-size: 24px;
 }
-.Navtable >table > tbody > tr > * {
+.Navtable > table > tbody > tr > * {
   font-size: 17px;
 }
-.Navtable >table > tbody > tr >td > * {
+.Navtable > table > tbody > tr > td > * {
   text-decoration: none;
   color: navy;
 }
-.Navtable >table > tbody > tr >td > *:hover{
+.Navtable > table > tbody > tr > td > *:hover {
   text-decoration: underline;
   color: red;
 }
@@ -138,10 +136,10 @@
     /*admission image*/
     width: 50vw;
   }
-  .Navtable >table > thead > * {
+  .Navtable > table > thead > * {
     font-size: 20px;
   }
-  .Navtable >table > tbody > tr > * {
+  .Navtable > table > tbody > tr > * {
     font-size: 15px;
   }
 }
@@ -166,10 +164,10 @@
     /*admission procedure image*/
     width: 40vw;
   }
-  .Navtable >table > thead > * {
+  .Navtable > table > thead > * {
     font-size: 15px;
   }
-  .Navtable >table > tbody > tr > * {
+  .Navtable > table > tbody > tr > * {
     font-size: 12px;
   }
 }

@@ -3,6 +3,25 @@
   top: 40px;
   cursor: default;
   margin-bottom: 30px;
+
+  /*horizontal overflow*/
+  min-width: 100vw;
+  overflow-x: hidden;
+}
+@media screen and (min-width: 1100px) {
+  .bodyy {
+    min-height: 431px;
+  }
+}
+@media screen and (max-width: 1100px) and (min-width:530px) {
+  .bodyy {
+    min-height: 365px;
+  }
+}
+@media screen and (max-width:530px) {
+  .bodyy {
+    min-height: 420px;
+  }
 }
 .heading {
   width: 100vw;
@@ -149,7 +168,7 @@
   justify-content: space-around;
   flex-direction: column;
 }
-@media screen and (max-width:500px) {
+@media screen and (max-width: 500px) {
   #Socialmedia {
     height: 15vh;
   }
@@ -239,8 +258,7 @@
   }
 }
 
-
-#awards > .displayblock > .lines > ul > *{
+#awards > .displayblock > .lines > ul > * {
   margin-top: 20px;
   margin-bottom: 5px;
 }

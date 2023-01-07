@@ -1,3 +1,5 @@
+
+
 /* Results */
 .branches {
   margin-top: 50px;
@@ -16,21 +18,21 @@
   font-family: "Acme", sans-serif;
   color: darkblue;
 }
-#resultTable > table > tbody > tr > td >* {
+#resultTable > table > tbody > tr > td > * {
   text-decoration: none;
   color: darkblue;
 }
-#resultTable > table > tbody > tr > td >*:hover {
+#resultTable > table > tbody > tr > td > *:hover {
   text-decoration: underline;
   color: red;
 }
 /* Discipline */
-#discipline > .displayblock >.lines > ul > li {
+#discipline > .displayblock > .lines > ul > li {
   padding: 6px 0px 6px;
   word-spacing: 3px;
 }
 /* schedule */
-#schedule > .displayblock > #notification{
+#schedule > .displayblock > #notification {
   margin-top: 30px;
   display: flex;
   justify-content: center;
